@@ -6,7 +6,7 @@ This project was bootstrapped with [react-project](https://github.com/Ermolaev-I
 - TypeScript 4.0.3
 - Eslint 7.17.0
 - Jesse config for eslint 2.2.3
-- Node-sass 5.0.0
+- Node-sass 4.14.1
 - Lint & Build checkers (Github Actions)
 
 ## Project Structure
