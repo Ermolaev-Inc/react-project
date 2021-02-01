@@ -1,3 +1,4 @@
+![Logo](https://user-images.githubusercontent.com/57585370/106520689-f8964300-64fe-11eb-938d-14085d3f3b7b.jpg)
 # Getting Started with React project
 This project was bootstrapped with [react-project](https://github.com/Ermolaev-Inc/react-project)
 
