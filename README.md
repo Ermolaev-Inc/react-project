@@ -35,6 +35,9 @@ Builds the app for production to the build folder
 ### `npm run lint` or `yarn lint`
 Checks compliance with the code style ([Jesse](https://github.com/ErmolaevID/Jesse))
 
+### `npm run lint-fix` or `yarn lint-fix`
+Fixes code style errors ([Jesse](https://github.com/ErmolaevID/Jesse))
+
 ## Create React App
 react-project was bootstrapped with [create-react-app](https://github.com/facebook/create-react-app)
 
