@@ -5,9 +5,7 @@ import { Home } from "./pages/Home";
 const App: React.FC = () => {
   return (
     <Switch>
-      <Route path="/">
-        <Home />
-      </Route>
+      <Route path="/" component={Home} exact />
     </Switch>
   );
 };
