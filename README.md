@@ -5,11 +5,15 @@ This project was bootstrapped with [react-project](https://github.com/Ermolaev-I
 ## Available Features
 - React 17.0.1
 - TypeScript 4.0.3
+- React-components-kit 2.1.0 
 - Eslint 7.17.0
 - Jesse config for eslint 2.2.3
 - Styled-components 5.2.1
 - Node-sass 4.14.1
 - Lint & Build checkers (Github Actions)
+
+## [React-components-kit](https://github.com/Ermolaev-Inc/react-components-kit)
+You can use components from react-components-kit (erck) library
 
 ## Project Structure
 In **src** folder you can find:
