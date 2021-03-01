@@ -2,6 +2,7 @@
 <div align="center">
 
 ![Release](https://img.shields.io/github/v/release/Ermolaev-Inc/react-project)
+![Lang](https://img.shields.io/github/languages/top/Ermolaev-Inc/react-project)
 
 
 ![Lint](https://github.com/Ermolaev-Inc/react-project/actions/workflows/lint.yml/badge.svg)
