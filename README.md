@@ -1,4 +1,11 @@
 ![Logo](https://user-images.githubusercontent.com/57585370/107797708-0eb4c680-6d7d-11eb-83c4-d289a4b707d2.png)
+<div align="center">
+  
+![Lint](https://github.com/Ermolaev-Inc/react-project/actions/workflows/lint.yml/badge.svg)
+![Build](https://github.com/Ermolaev-Inc/react-project/actions/workflows/build.yml/badge.svg)
+
+</div>
+
 # Getting Started with React project
 This project was bootstrapped with [react-project](https://github.com/Ermolaev-Inc/react-project)
 
