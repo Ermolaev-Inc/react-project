@@ -16,7 +16,7 @@ This project was bootstrapped with [react-project](https://github.com/Ermolaev-I
 ## Available Features
 - React 17.0.1
 - TypeScript 4.0.3
-- React-components-kit 2.1.0 
+- React-components-kit 2.1.2 
 - Eslint 7.17.0
 - Jesse config for eslint 2.2.3
 - Styled-components 5.2.1
