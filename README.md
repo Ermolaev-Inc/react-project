@@ -1,4 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/57585370/107797708-0eb4c680-6d7d-11eb-83c4-d289a4b707d2.png)
+![Logo](https://user-images.githubusercontent.com/57585370/111341061-fa752980-869a-11eb-9933-e014a1503678.png)
 <div align="center">
 
 ![Release](https://img.shields.io/github/v/release/Ermolaev-Inc/react-project)
