@@ -55,6 +55,9 @@ Checks compliance with the code style ([Jesse](https://github.com/ErmolaevID/Jes
 ### `npm run lint-fix` or `yarn lint-fix`
 Fixes code style errors ([Jesse](https://github.com/ErmolaevID/Jesse))
 
+### `npm run test:coverage` or `yarn test:coverage`
+Checks the code coverage by types
+
 ## Create React App
 react-project was bootstrapped with [create-react-app](https://github.com/facebook/create-react-app)
 
