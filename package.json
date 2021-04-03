@@ -26,6 +26,7 @@
     "lint": "eslint .",
     "lint-fix": "eslint . --fix",
     "test": "react-scripts test",
+    "type:coverage": "type-coverage --detail",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -52,6 +53,7 @@
     "@typescript-eslint/eslint-plugin": "^4.12.0",
     "@typescript-eslint/parser": "^4.12.0",
     "eslint": "^7.17.0",
-    "eslint-config-jesse": "^2.2.3"
+    "eslint-config-jesse": "^2.2.3",
+    "type-coverage": "^2.17.0"
   }
 }
