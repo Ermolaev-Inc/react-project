@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import { ComponentExample } from "../components/ComponentExample";
+import { ComponentExample } from "../components/ComponentExample/ComponentExample";
 import { ButtonRect } from "erck";
 
 import "../styles/Home.styles.sass";

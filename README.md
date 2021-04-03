@@ -30,9 +30,11 @@ You can use components from react-components-kit (erck) library
 In **src** folder you can find:
 - **components** <br>
   Your independent components should be located here <br>
-  If you use css-in-js then create a single file <br>
+  If you use css-in-js then create folder and two files: <br>
+  **ComponentsName.tsx** and **ComponentNameStyles.tsx** <br>
   If you use sass/scss/less then create folder and two files: <br> 
-  **ComponentName.tsx** and **ComponentName.styles.sass**
+  **ComponentName.tsx** and **ComponentName.styles.sass** <br>
+  
 - **pages** <br>
   The pages collected from the components should be here <br>
   Examples: <br>
